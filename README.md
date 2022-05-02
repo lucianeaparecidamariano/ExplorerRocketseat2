@@ -1,21 +1,30 @@
-<h1 align="center">Corrigindo Bugs (2) </h1>
+<h1 align="center">Treine.me </h1>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/92582446/163576627-9f241256-e9b1-4843-8554-5e7d1358cb75.JPG" alt="tela"/>
 </p>
 
-<p align="center">Página estática para treinar os conhecimentos adquiridos nas aulas do nível 2 do programa Explorer da Rocketseat <a href="https://github.com/lucianeaparecidamariano/ExplorerRocketseat_Desafio2">here</a></p>
+<p align="center"><a href="https://github.com/lucianeaparecidamariano/ExplorerRocketseat_Desafio2">Clique aqui para visualizar o projeto</a></p>
 
-<p align="center">
- <a href="#technologies">Tecnologias</a> •
-</p>
+<h2>:wrench: Sobre o projeto:</h2>
+<p>Construção de uma ágina estática para treinar os conhecimentos adquiridos nas aulas do nível 2 do programa Explorer da Rocketseat:</p>
 
-<h1 id="technologies">:computer: Tecnologias</h1>
+<ul>
+ <li>Tags semânticas;</li>
+ <li>Box Model;</li>
+ <li>Flexbox;</li>
+ <li>Acessibilidade;</li>
+ <li>Adicionando fontes;</li>
+ <li>Melhorando os textos;</li>
+ <li>Botão;</li>
+ <li>Background linear-gradient.</li>
+</ul>
 
-<p>Foram utilizadas as seguintes tecnologias:</p>
+<h2>:computer: Tecnologias utilizadas:</h2>
 
-- HTML
-- CSS
+:white_check_mark:HTML
+<br>
+:white_check_mark:CSS
 
 
 
